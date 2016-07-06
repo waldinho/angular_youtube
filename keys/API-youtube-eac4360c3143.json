@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "api-youtube-1350",
+  "private_key_id": "eac4360c314360bd6da0a250700a6c002c3076e7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDKJqlikzpKBngp\ny1H+OR/54CB7jP0QfQESN36z06GGaYC3CMkBgPZNSNcKa8Ys3s3w/yCljQTu6mts\nsGsKrbN0XEVs03mYI5YSzadOhxsEw4UyygwkzkgFJ3y2HsnIOlUrA4UG2cqwtEoU\nMpODosup+V+hAlNwGZrDmvnm4+7Ipv45+5z7+VL1cOLu1KzyDamgbF7ZpP8Tc/SZ\nyJj+JcK9wz4UKSuPMFfigbD07v2FUr333ETeXUE5/PxmHGY0JJRC6sRN59ygeN5S\nozKGhVAKN6r5Q9gFFu3pQ+cQv/WhjLO/hxQhVXGAzKs3/21tGQn8o3NLWhel7ncc\netBoh2f3AgMBAAECggEAWzKB7CS7gTXV9BTz0pr24AXK4bJDYLLkTtGWaY4qKrdi\nCDEAbZs+grM/wEXKy+dgRT7z/XvXI+nBuPEF+XVPpkkSUPw+uPIk/CqnNfghqk6C\nwt0ACYK+XwTncEoHgjs+vP8Dfom2tW1AlkgS4KoK8427JKol9ka22VQLNazSxtYy\nCOYfdrth7jweRFknyLIyvhP1c7eH/oCQuigRSHM9Yz6OcNhyRCwInehdQDslnmgs\n3eBrTXcprV9sndqaGGf3eJTW4J5F8xBDplkBZFwlGUQHp+z8shVxh1Dbq86lJXDq\nUI32ERBO19QySXNwXUdFKeuNBCTIxWEBwq1o/2EtgQKBgQDvW0nh2U47nKsS38ou\nLbSBrqg3hH+vjqekhzGqK32YT3cMr4VK8r9w3n4LetLe0vdUYqGYxLobBN/boXIw\n0ZDltnFNVN3SymO1Ccwcd9MdVSdMSbhpR7OzJeOAdodvhOifKO/E+J51UVY/UCSV\nPFMtVJt71djQx9MW4W9RrEBN4QKBgQDYNRaeKAeB3jxhEaBShdnGkUTOnpRVaAMX\n/kl17VaRjO6l8WdlaUiQV/oPWWB9TetOp3zZLYNufBrOvjHsfQCbpqNXppUFcYUX\n6PvewHYGiUa85ECrPJ2kzpyw0XFMdlN9A/bKctRAgCJlwtm0Ajo6yEUAaiWKLZhB\n8hPT00YA1wKBgQCMHycLXkmcQEUuEXCsw/juCi9UAO82+Q5PFQ4QDtHBvpN1C7O+\ngolsK/QiCE82Ps6nye3MHy7L7niWfNb6mVR4BewiV1JcujrQmuGwsL0YaOdOk8Gv\ncFhUwhOC+uCiem4r7q0e5GTvTSRugB5KdzxCR0uWnUQGRVTgCi0+5NXoQQKBgCdm\nbUu/Ebcp76jk1GmVeN1Fxds9bNyvirjJn0t9R+RYYXkeJ/CEIjQjxC8d44aSN4pq\n3Uaak7QDq8L3SBPHp9+1m1iyw79tM4rq61NpkViZlamAkwRhlHzfJhDW6iW7/nTu\nzv+Ps3xZnWsb+h5itYfWzTRJI7QtoOyLl+9nNf+bAoGAKz3+9epVjHpNmWsO67UU\nYnL5dcihFPCPezSQIhFVtY8fWwEQ4QpTK4m452BHys69CCQaCIyVTO+La2De8EfY\nTItu61E2ito8Sf+ER6hAPAqaJDkj39Z9Ad2M5svzCINYpwCfodrPG94d4HyEfKU7\nFpPr9AOpr3h2EGvH4va8pBY=\n-----END PRIVATE KEY-----\n",
+  "client_email": "api-youtube-1350@appspot.gserviceaccount.com",
+  "client_id": "109949238761935643573",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/api-youtube-1350%40appspot.gserviceaccount.com"
+}
